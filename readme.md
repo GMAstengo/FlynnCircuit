@@ -1,1 +1,1 @@
-Hello vim!
+Hello noob. time to learn!
